@@ -1,2 +1,2 @@
-# validate-files
-A tool for validating file hashes (SHA1)
+# Validate files
+**A tool for validating file hashes**
